@@ -1,0 +1,41 @@
+#Digi Series - digitall Plank Theme  - Uppercap Edition - Blue 
+#
+#Created: February 2022
+#License: MIT © Alfredo F.
+#
+#Author: PT_Alfred
+#Social: https://mastodon.art/@PTAlfred
+
+[PlankTheme]
+TopRoundness=36
+BottomRoundness=26
+LineWidth=1
+OuterStrokeColor=32;;118;;250;;255
+FillStartColor=0;;0;;0;;28
+FillEndColor=0;;0;;0;;28
+InnerStrokeColor=0;;0;;0;;255
+
+[PlankDockTheme]
+HorizPadding=8
+TopPadding=-10
+BottomPadding=2
+ItemPadding=4
+IndicatorSize=4
+IconShadowSize=2.8
+UrgentBounceHeight=2
+LaunchBounceHeight=2
+FadeOpacity=2
+ClickTime=78
+UrgentBounceTime=600
+LaunchBounceTime=750
+ActiveTime=26
+SlideTime=878
+FadeTime=478
+HideTime=828
+GlowSize=72
+GlowTime=1750
+GlowPulseTime=1750
+UrgentHueShift=180
+ItemMoveTime=450
+CascadeHide=true
+BadgeColor=0;;0;;0;;0
